@@ -1,0 +1,7 @@
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\ManOWarServerCode\bin\Debug\ManOWarServerCode.dll
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\ManOWarServerCode\bin\Debug\ManOWarServerCode.pdb
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\ManOWarServerCode\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\ManOWarServerCode\obj\x86\Debug\ManOWarServerCode.dll
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\ManOWarServerCode\obj\x86\Debug\ManOWarServerCode.pdb
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\ManOWarServerCode\bin\Debug\Player.IO GameLibrary.dll
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\ManOWarServerCode\bin\Debug\Player.IO GameLibrary.xml

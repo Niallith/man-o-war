@@ -1,0 +1,11 @@
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\bin\Debug\PlayerIO Server Developpement.exe
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\bin\Debug\PlayerIO Server Developpement.pdb
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\bin\Debug\Player.IO Development Server.exe
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\bin\Debug\Player.IO GameLibrary.dll
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\bin\Debug\Player.IO GameLibrary.xml
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\obj\x86\Debug\PlayerIO Server Developpement.exe
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\obj\x86\Debug\PlayerIO Server Developpement.pdb
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\bin\Debug\ManOWarServerCode.dll
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\bin\Debug\ManOWarServerCode.pdb
+D:\Developpement\ManOWar\ManOWar\ServerSide\ManOWarServerCode\PlayerIO Server Developpement\bin\Debug\PlayerIO Server Developpement.exe.config
